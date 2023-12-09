@@ -1,0 +1,11 @@
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Voronov 4\Voronov 4\bin\Debug\Voronov 4.exe.config
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Voronov 4\Voronov 4\bin\Debug\Voronov 4.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Voronov 4\Voronov 4\bin\Debug\Voronov 4.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Voronov 4\Voronov 4\obj\Debug\Voronov 4.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Voronov 4\Voronov 4\obj\Debug\Voronov 4.csproj.SuggestedBindingRedirects.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Voronov 4\Voronov 4\obj\Debug\Voronov_4.Form1.resources
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Voronov 4\Voronov 4\obj\Debug\Voronov_4.Properties.Resources.resources
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Voronov 4\Voronov 4\obj\Debug\Voronov 4.csproj.GenerateResource.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Voronov 4\Voronov 4\obj\Debug\Voronov 4.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Voronov 4\Voronov 4\obj\Debug\Voronov 4.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Voronov 4\Voronov 4\obj\Debug\Voronov 4.pdb
